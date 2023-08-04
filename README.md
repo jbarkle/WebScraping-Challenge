@@ -1,13 +1,10 @@
 # WebScraping-Challenge
-### Description
-A basic analysis on sleep efficiency based on data from various sources.
-
 ### Info / Credits
 
 - Project by 
     * `jbarkle` 
 
-- `REPO:` https://github.com/jbarkle/Exploratory-Analysis-of-Sleep-Data
+- `REPO:` https://github.com/jbarkle/WebScraping-Challenge
 
 ## Introduction
 
